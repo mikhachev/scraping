@@ -9,7 +9,6 @@
 
 '''
 
-# В текущем виде просматривает только yandex и mail, продолжаю работать
 
 from pprint import pprint
 from lxml import html
